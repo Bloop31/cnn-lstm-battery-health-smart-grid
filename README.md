@@ -19,10 +19,10 @@ Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib
 
 ## Dataset
 
-Processed version of the **NASA Lithium-Ion Battery Aging Dataset** (Kaggle).
+Processed version of the **NASA Lithium-Ion Battery Aging Dataset** (Kaggle) and B000X battery dataset.
 
 ## Application
 
-Supports intelligent EV charging control, peak load reduction, and predictive battery maintenance in smart grid environments.
+Supports intelligent EV charging control, peak load reduction, and predictive battery maintenance in smart grid environments. 
 
 **Author:** Prajjit Basu
